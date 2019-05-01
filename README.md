@@ -3,6 +3,6 @@ Web Scraping (also termed Screen Scraping, Web Data Extraction, Web Harvesting e
 so in this model we can extract flipkart data on iphone price.
 
 # Using Library
--->urllib.request
+-->urllib.request                                                                                                                       
 -->bs4
 
